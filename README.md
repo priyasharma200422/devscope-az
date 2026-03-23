@@ -1,16 +1,40 @@
-# React + Vite
+# DevScope AZ 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An intelligent GitHub profile analyzer that transforms developer profiles into meaningful insights with a clean and modern UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- 🔍 Search any GitHub user
+- 📊 View profile statistics (followers, repositories)
+- 📁 Display top repositories with stars & languages
+- 🎨 Modern dark UI using Tailwind CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+(Add screenshot here soon)
+
+---
+
+## 🧠 Why I Built This
+
+I wanted to build more than a basic API project — something that actually looks like a real product and can help evaluate developer profiles effectively.
+
+---
+
+## 🛠 Tech Stack
+
+- React.js
+- Tailwind CSS
+- GitHub REST API
+
+---
+
+## 🚀 Run Locally
+
+```bash
+npm install
+npm run dev
