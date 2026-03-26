@@ -1,4 +1,4 @@
-# DevScope AZ 🚀
+# DevScope AZ
 
 An intelligent GitHub profile analyzer that transforms developer profiles into meaningful insights through a clean and modern dashboard UI.
 
