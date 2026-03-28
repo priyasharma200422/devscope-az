@@ -1,28 +1,24 @@
-# DevScope AZ
+# 🚀 DevScope AZ
 
-An intelligent GitHub profile analyzer that transforms developer profiles into meaningful insights through a clean and modern dashboard UI.
+Analyze and compare GitHub profiles with AI-powered insights, scoring system, and interactive visualizations.
+
+---
+
+## 🌐 Live Demo
+
+👉 https://devscope-az.netlify.app/
 
 ---
 
 ## ✨ Features
 
-* 🔍 Search any GitHub user
-* 📊 View profile statistics (followers, repositories)
-* 📁 Display top repositories with stars & languages
-* 🎨 Modern dark UI using Tailwind CSS
-
----
-
-## 📸 Preview
-
-![App Screenshot](./screenshot.png)
-
----
-
-## 🧠 Why I Built This
-
-Most GitHub analyzers simply display raw data.
-I wanted to build something that feels like a real product — something recruiters can use to quickly evaluate developer profiles.
+* 🔍 GitHub Profile Analyzer
+* ⚔️ Compare Two Developers
+* 🤖 AI-based Insights
+* 🏆 Developer Score System
+* 📊 Language Distribution Chart
+* 🎨 Modern UI with Tailwind CSS
+* ⚡ Fast & Responsive
 
 ---
 
@@ -31,64 +27,20 @@ I wanted to build something that feels like a real product — something recruit
 * React.js
 * Tailwind CSS
 * GitHub REST API
+* Recharts
 
 ---
 
-## 🚀 Run Locally
+## 🚀 How to Run Locally
 
+```bash
 npm install
 npm run dev
+```
 
 ---
 
-## 🔮 Future Improvements
+## 👤 Author
 
-* 🤖 AI-based developer insights
-* 📊 Language distribution charts
-* 🏆 Repo quality scoring system
-# DevScope AZ 🚀
-
-An intelligent GitHub profile analyzer that transforms developer profiles into meaningful insights through a clean and modern dashboard UI.
-
----
-
-## ✨ Features
-
-* 🔍 Search any GitHub user
-* 📊 View profile statistics (followers, repositories)
-* 📁 Display top repositories with stars & languages
-* 🎨 Modern dark UI using Tailwind CSS
-
----
-
-
----
-
-## 🧠 Why I Built This
-
-Most GitHub analyzers simply display raw data.
-I wanted to build something that feels like a real product — something recruiters can use to quickly evaluate developer profiles.
-
----
-
-## 🛠 Tech Stack
-
-* React.js
-* Tailwind CSS
-* GitHub REST API
-
----
-
-## 🚀 Run Locally
-
-npm install
-npm run dev
-
----
-
-## 🔮 Future Improvements
-
-* 🤖 AI-based developer insights
-* 📊 Language distribution charts
-* 🏆 Repo quality scoring system
-
+**Priya Sharma**
+Built with ❤️ and lots of debugging 🚀
